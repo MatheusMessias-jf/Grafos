@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1508428737 source:c:\users\matheus\desktop\grafos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<cctype>
+	<iostream>
+	<locale.h>
+	<vector>
+	"Funcao.h"
+
+1508418648 c:\users\matheus\desktop\grafos\funcao.h
+	<iostream>
+
+1508417800 c:\users\matheus\desktop\grafos\no.h
+	"Lista.h"
+
+1508417797 c:\users\matheus\desktop\grafos\lista.h
+	"Adjacente.h"
+	"No.h"
+
+1508417800 c:\users\matheus\desktop\grafos\adjacente.h
+	"No.h"
+
+1508418498 c:\users\matheus\desktop\grafos\aresta.h
+	<iostream>
+
+1508417798 c:\users\matheus\desktop\grafos\grafo.h
+	"No.h"
+	"Aresta.h"
+
